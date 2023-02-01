@@ -1,3 +1,3 @@
 # NLP
 
-This repo contains NLP algorithms
+This repository contains NLP algorithms
